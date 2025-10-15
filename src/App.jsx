@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './Style.css';
+import './Style.scss';
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import TaskList from './components/organisms/TaskList/TaskList';
