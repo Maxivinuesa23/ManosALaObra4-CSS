@@ -59,7 +59,7 @@ h1 {
 .inputTarea {
     padding: 12px 13px;
     font-size: 16px;
-    min-width: 435px;
+    min-width: 535px;
     border-radius: 0;
     color: white;
 
@@ -163,7 +163,8 @@ h1 {
 .botonBorrar {
     cursor: pointer;
     transition: background 0.3s;
-    border: none;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
     background: transparent;
     padding: 8px;
     font-size: 18px;
@@ -189,7 +190,6 @@ h1 {
     background: #6d6d6d;
     color: rgb(255, 255, 255);
     font-weight: bold;
-    border-radius: 0;
     margin-bottom: 10px;
     margin-right: 10px; 
     width: auto;
