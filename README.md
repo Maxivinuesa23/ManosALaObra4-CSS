@@ -1,8 +1,8 @@
-# Trabajo Practico N° 3 Interactividad --- Programación Web
+# Trabajo Practico N° 4 Estilos SCSS --- Programación Web
 
 
 ## Descripción
-Se pide seguir con el proyecto anterior donde aplicamos el diseño atomico y utilizar el useState para darle interactividad a nuestro proyecto (Lista de Tareas).
+Se pide implementar un diseño para la lista de tareas utilizando SCSS
 
 ## Tabla de contenidos
 
@@ -14,7 +14,7 @@ Se pide seguir con el proyecto anterior donde aplicamos el diseño atomico y uti
 
 Máximo Vinuesa - [@Linkedin](https://www.linkedin.com/in/maximo-vinuesa/) - [@Gmail](maxivinuesa23@gmail.com)
 
-Enlace del Proyecto: (https://github.com/Maxivinuesa23/ManosALaObra3-Interactividad)
+Enlace del Proyecto: (https://github.com/Maxivinuesa23/ManosALaObra4-CSS)
 
 
-![Versión](https://img.shields.io/badge/version-1.1.2-blue.svg)
+![Versión](https://img.shields.io/badge/version-1.1.0-blue.svg)
